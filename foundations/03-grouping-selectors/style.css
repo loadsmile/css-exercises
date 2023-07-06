@@ -1,0 +1,14 @@
+.white-lettering,
+.black-lettering {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.white-lettering {
+    background-color: black;
+    color: white;
+}
+
+.black-lettering {
+    background-color: yellow;
+}
